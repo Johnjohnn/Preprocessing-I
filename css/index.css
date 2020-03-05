@@ -134,3 +134,17 @@ html,
 body {
   height: 100%;
 }
+/*========== My Code Starts Here ==========*/
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem ;
+}
+.navigation a {
+  text-decoration: none;
+  text-shadow: 3px 3px 4px black;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: gray;
+}
